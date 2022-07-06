@@ -1,6 +1,6 @@
 ![logo](https://i.imgur.com/vn3kC5z.jpg)
 
-friendly / <span style="color:red">**not friendly**</span>
+**not friendly**
 
 > Автоапдейт никнейма в телеграмм 
 
